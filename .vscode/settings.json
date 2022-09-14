@@ -15,6 +15,9 @@
         "unordered_map": "cpp",
         "vector": "cpp",
         "utility": "cpp",
-        "cmath": "cpp"
+        "cmath": "cpp",
+        "fstream": "cpp",
+        "locale": "cpp",
+        "*.tcc": "cpp"
     }
 }
